@@ -5,7 +5,7 @@
 
 
 ### 저는 경기 게임 마이스터고에서 게임 개발자의 꿈을 키우고 있는 김소빈입니다.
- 👾 GITHUB stats 
+ # 👾 GITHUB stats 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sobinkim&show_icons=true&theme=transparent)
  
 - ##### 아직 완벽하게 사용 가능한 언어가 없습니다.
