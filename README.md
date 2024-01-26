@@ -1,5 +1,5 @@
 
-![](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=hello%20I'm%20sobinkim)
+![](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello%20I'm%20sobinkim)
 # 저는 경기 게임 마이스터고에서 게임 개발자의 꿈을 키우고 있는 김소빈입니다.
  # 👾 GITHUB stats 
 # ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sobinkim&show_icons=true&theme=transparent)
