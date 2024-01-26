@@ -1,19 +1,18 @@
 
 
 
-![header](https://capsule-render.vercel.app/api?type=egg&height=300&color=gradient&text=Hello%20%20I"M%20sobinkim&section=header&fontColor=w)
+#![](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=hello%20I'm%20sobinkim)
 
 
 ### 저는 경기 게임 마이스터고에서 게임 개발자의 꿈을 키우고 있는 김소빈입니다.
  # 👾 GITHUB stats 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sobinkim&show_icons=true&theme=transparent)
+# ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sobinkim&show_icons=true&theme=transparent)
  
 - ##### 아직 완벽하게 사용 가능한 언어가 없습니다.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sobinkim&layout=compact)
 
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white)
-
 
 
 # 👩‍💻 자기소개
