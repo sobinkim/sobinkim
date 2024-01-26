@@ -7,7 +7,8 @@
 - ##### 아직 완벽하게 사용 가능한 언어가 없습니다.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sobinkim&layout=compact)
 
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+# 🙆‍♂️사용가능한 언어
+- ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white)
 
 
