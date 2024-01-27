@@ -1,5 +1,5 @@
 
-![](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello%20I'm%20sobinkim)
+![](https://capsule-render.vercel.app/api?type=rounded&height=330&color=A901DB&text=Hello%20I'M%20SOBINKIM&descAlign=100&descAlignY=100&descSize=20&section=footersss)
 # 저는 경기 게임 마이스터고에서 게임 개발자의 꿈을 키우고 있는 김소빈입니다.
  # 👾 GITHUB stats 
 # ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sobinkim&show_icons=true&theme=transparent)
@@ -7,9 +7,13 @@
 - ##### 아직 완벽하게 사용 가능한 언어가 없습니다.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sobinkim&layout=compact)
 
-# 🙆‍♂️사용가능한 언어
-- ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white)
+# 🙆‍♂️사용가능한 언어/Tool
+
+![csharp](https://img.shields.io/badge/csharp-512BD4.svg?&style=for-the-badge&logo=csharp&logoColor=black)
+![c](https://img.shields.io/badge/c-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=black)
+![visualstudio](https://img.shields.io/badge/visualstudio-5C2D91.svg?&style=for-the-badge&logo=visualstudio&logoColor=white)
+
+
 
 
 # 👩‍💻 자기소개
