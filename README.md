@@ -3,7 +3,7 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsobinkim&count_bg=%23A901DB&title_bg=%23000000&icon=github.svg&icon_color=%2333C23C&title=hits&edge_flat=false"/></a>
 # 저는 경기 게임 마이스터고에서 게임 개발자의 꿈을 키우고 있는 김소빈입니다 . 
  # 👾 GITHUB stats 
-#![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=midnight-purple&show_icons=true)
+#![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sobinkim&theme=midnight-purple&show_icons=true)
 - ##### 아직 완벽하게 사용 가능한 언어가 없습니다...
 
 # 🙆‍♂️사용가능한 언어/Tool
